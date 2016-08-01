@@ -1,0 +1,178 @@
+make 
+gcc -c main.c
+gcc -c direct.c
+gcc -c rnd.c
+gcc -c kpdir.c
+gcc -o main.exe main.o direct.o rnd.o kpdir.o
+maint 
+parcel 0:	weight = 16	value = 89
+parcel 1:	weight = 30	value = 27
+parcel 2:	weight = 27	value = 63
+parcel 3:	weight = 31	value = 10
+parcel 4:	weight = 53	value = 85
+parcel 5:	weight = 55	value = 20
+parcel 6:	weight = 84	value = 21
+parcel 7:	weight = 30	value = 6
+parcel 8:	weight = 59	value = 35
+parcel 9:	weight = 93	value = 21
+parcel 10:	weight = 51	value = 35
+parcel 11:	weight = 0	value = 57
+parcel 12:	weight = 42	value = 46
+parcel 13:	weight = 96	value = 1
+parcel 14:	weight = 98	value = 80
+parcel 15:	weight = 65	value = 88
+parcel 16:	weight = 30	value = 1
+parcel 17:	weight = 29	value = 79
+parcel 18:	weight = 90	value = 64
+parcel 19:	weight = 54	value = 31
+parcel 20:	weight = 91	value = 48
+parcel 21:	weight = 41	value = 74
+parcel 22:	weight = 57	value = 5
+parcel 23:	weight = 11	value = 37
+parcel 24:	weight = 60	value = 42
+parcel 25:	weight = 76	value = 23
+parcel 26:	weight = 36	value = 95
+parcel 27:	weight = 69	value = 53
+parcel 28:	weight = 17	value = 85
+parcel 29:	weight = 74	value = 29
+*** maxvalue = 89
+*** maxvalue = 116
+*** maxvalue = 152
+*** maxvalue = 179
+*** maxvalue = 189
+*** maxvalue = 201
+*** maxvalue = 237
+*** maxvalue = 264
+*** maxvalue = 274
+*** maxvalue = 284
+*** maxvalue = 294
+*** maxvalue = 295
+*** maxvalue = 305
+*** maxvalue = 315
+*** maxvalue = 321
+*** maxvalue = 329
+*** maxvalue = 330
+*** maxvalue = 340
+*** maxvalue = 350
+*** maxvalue = 356
+*** maxvalue = 361
+*** maxvalue = 371
+*** maxvalue = 377
+*** maxvalue = 385
+*** maxvalue = 391
+*** maxvalue = 396
+*** maxvalue = 406
+*** maxvalue = 412
+*** maxvalue = 413
+*** maxvalue = 418
+*** maxvalue = 428
+*** maxvalue = 434
+*** maxvalue = 442
+*** maxvalue = 448
+*** maxvalue = 453
+*** maxvalue = 463
+*** maxvalue = 469
+*** maxvalue = 474
+*** maxvalue = 480
+*** maxvalue = 488
+*** maxvalue = 494
+*** maxvalue = 499
+*** maxvalue = 509
+*** maxvalue = 515
+*** maxvalue = 516
+*** maxvalue = 522
+*** maxvalue = 528
+*** maxvalue = 533
+*** maxvalue = 543
+*** maxvalue = 549
+*** maxvalue = 554
+*** maxvalue = 560
+*** maxvalue = 568
+*** maxvalue = 574
+*** maxvalue = 579
+*** maxvalue = 589
+*** maxvalue = 595
+*** maxvalue = 597
+*** maxvalue = 603
+*** maxvalue = 604
+*** maxvalue = 610
+*** maxvalue = 616
+*** maxvalue = 621
+*** maxvalue = 631
+*** maxvalue = 637
+*** maxvalue = 642
+*** maxvalue = 648
+*** maxvalue = 656
+*** maxvalue = 662
+*** maxvalue = 667
+*** maxvalue = 677
+*** maxvalue = 683
+*** maxvalue = 689
+*** maxvalue = 695
+*** maxvalue = 700
+*** maxvalue = 710
+*** maxvalue = 716
+*** maxvalue = 721
+*** maxvalue = 727
+*** maxvalue = 735
+*** maxvalue = 741
+*** maxvalue = 746
+*** maxvalue = 756
+*** maxvalue = 759
+*** maxvalue = 764
+*** maxvalue = 770
+*** maxvalue = 775
+*** maxvalue = 778
+*** maxvalue = 779
+*** maxvalue = 789
+*** maxvalue = 799
+*** maxvalue = 809
+*** maxvalue = 810
+*** maxvalue = 815
+*** maxvalue = 816
+*** maxvalue = 826
+*** maxvalue = 827
+*** maxvalue = 837
+*** maxvalue = 838
+*** maxvalue = 844
+*** maxvalue = 852
+*** maxvalue = 853
+*** maxvalue = 863
+*** maxvalue = 873
+*** maxvalue = 883
+*** maxvalue = 890
+*** maxvalue = 901
+*** maxvalue = 910
+*** maxvalue = 917
+*** maxvalue = 921
+*** maxvalue = 932
+*** maxvalue = 933
+*** maxvalue = 937
+*** maxvalue = 947
+*** maxvalue = 949
+*** maxvalue = 958
+*** maxvalue = 968
+*** maxvalue = 974
+*** maxvalue = 984
+*** maxvalue = 985
+*** maxvalue = 995
+*** maxvalue = 1002
+*** maxvalue = 1006
+*** maxvalue = 1009
+*** maxvalue = 1017
+*** maxvalue = 1020
+*** maxvalue = 1024
+*** maxvalue = 1032
+*** maxvalue = 1033
+*** maxvalue = 1043
+*** maxvalue = 1050
+*** maxvalue = 1059
+*** maxvalue = 1060
+*** maxvalue = 1065
+*** maxvalue = 1070
+*** maxvalue = 1076
+*** maxvalue = 1081
+*** maxvalue = 1085
+*** maxvalue = 1092
+*** maxvalue = 1099
+1 1 1 0 1 0 0 0 1 0 0 1 1 0 1 1 0 1 1 0 0 1 0 1 1 0 1 1 1 0 
